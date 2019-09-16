@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.tne.expenzingagiletnev12" version="12.1.1" android-versionCode="106" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.phonegap.tne.expenzingagiletnev12" version="12.1.2" android-versionCode="106" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 <!--widget id="com.expenzing.expenzing" version="1.1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"-->
     <name>Expenzing TEM Agile</name>
     <description>
@@ -63,6 +63,7 @@
     <gap:plugin name="cordova-plugin-camera" source="npm" spec="~2.3.0"/>
     <variable name="CAMERA_USAGE_DESCRIPTION" value="App requires access to the camera" />
     <variable name="NSPHOTOLIBRARYUSAGEDESCRIPTIONENTRY" value="App requires access to the photo library" />
+    <variable name="NSPHOTOLIBRARYUSAGEDESCRIPTION" value="App requires access to the photo library" />
     <variable name="NSLOCATIONALWAYSUSAGEDESCRIPTION" value="App requires access to the photo library" />
     <variable name="NSLOCATIONWHENINUSAGEDESCRIPTION" value="App requires access to the photo library" />
     
